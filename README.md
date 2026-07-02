@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@arbajayub" target="blank"><img src="https://img.shields.io/twitter/follow/arbajayub?logo=twitter&style=for-the-badge" alt="@arbajayub" /></a> </p>
 
-- 🔭 I'm presently engaged in an internship at **iNeuron**
+- 🔭 I'm working at **Mosaic wellness**
 
-- 🌱 I’m currently learning **AI and Machine Learning**
+- 🌱 I’m currently learning **AI**
 
 - 💬 Ask me about **Python, SQL**
 
