@@ -1,27 +1,23 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arbajkhan777/Arbajkhan777/refs/heads/main/ArbajKhan.png" alt="Arbaj Khan Banner" width="100%">
 </p>
-
 <br>
-<h1 align="center">Hi 👋, I'm Arbaj</h1>
-<h3 align="center">Exploring the World of Tech: Journey through Python..!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+# Hi, I'm Arbaj 👋
+
+Performance Marketing Executive at **Mosaic Wellness**, helping brands grow through **Amazon Ads** while building AI-powered solutions with **Python** and **SQL**.
+
+Currently exploring **LLMs**, **AI Automation**, and **Marketing Analytics**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbajkhan777&label=Profile%20views&color=0e75b6&style=flat" alt="arbajkhan777" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@arbajayub" target="blank"><img src="https://img.shields.io/twitter/follow/arbajayub?logo=twitter&style=for-the-badge" alt="@arbajayub" /></a> </p>
+# Hi, I'm Arbaj 👋
 
-- 🔭 I'm working at **Mosaic wellness**
+Performance Marketing Executive at **Mosaic Wellness**.
 
-- 🌱 I’m currently learning **AI**
+I help brands grow through **Amazon Ads** and enjoy building data-driven solutions with **Python**, **SQL**, and **AI**.
 
-- 💬 Ask me about **Python, SQL**
-
-- 📫 How to reach me **arbajkhan2117@gmail.com**
-
-- 📄 Know about my experiences [Resume - Arbaj Khan](Resume - Arbaj Khan)
-
-- ⚡ Fun fact **I can perform muscle ups.**
+🌱 Currently exploring **LLMs**, **AI Automation**, and **Marketing Analytics**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
