@@ -1,4 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arbajkhan777/Arbajkhan777/refs/heads/main/ArbajKhan.png" alt="Arbaj Khan Banner" width="100%">
+</p>
 
+<br>
 <h1 align="center">Hi 👋, I'm Arbaj</h1>
 <h3 align="center">Exploring the World of Tech: Journey through Python..!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
