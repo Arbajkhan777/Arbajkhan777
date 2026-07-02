@@ -3,8 +3,6 @@
 </p>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arbajkhan777&label=Profile%20views&color=0e75b6&style=flat" alt="arbajkhan777" /> </p>
-
 # Hi, I'm Arbaj 👋
 
 Performance Marketing Executive at **Mosaic Wellness**.
