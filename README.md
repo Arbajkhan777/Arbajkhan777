@@ -3,12 +3,6 @@
 </p>
 <br>
 
-# Hi, I'm Arbaj 👋
-
-Performance Marketing Executive at **Mosaic Wellness**, helping brands grow through **Amazon Ads** while building AI-powered solutions with **Python** and **SQL**.
-
-Currently exploring **LLMs**, **AI Automation**, and **Marketing Analytics**.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbajkhan777&label=Profile%20views&color=0e75b6&style=flat" alt="arbajkhan777" /> </p>
 
 # Hi, I'm Arbaj 👋
