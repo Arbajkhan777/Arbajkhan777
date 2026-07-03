@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arbajkhan777/Arbajkhan777/main/ArbajKhan.png" alt="Arbaj Khan Banner" width="100%" />
+  <img src="https://github.com/Arbajkhan777/Arbajkhan777/blob/main/banner.png" width="100%" />
 </p>
 
 # Hi, I'm Arbaj 👋
