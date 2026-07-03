@@ -1,27 +1,97 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arbajkhan777/Arbajkhan777/refs/heads/main/ArbajKhan.png" alt="Arbaj Khan Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/Arbajkhan777/Arbajkhan777/main/ArbajKhan.png" alt="Arbaj Khan Banner" width="100%" />
 </p>
-<br>
 
 # Hi, I'm Arbaj 👋
 
-Performance Marketing Executive at **Mosaic Wellness**.
+**Performance Marketing Executive @ Mosaic Wellness**
 
-I help brands grow through **Amazon Ads** and enjoy building data-driven solutions with **Python**, **SQL**, and **AI**.
+I help brands scale through **Amazon Ads** and enjoy building data-driven solutions using **Python**, **SQL**, and **AI**.
 
 🌱 Currently exploring **LLMs**, **AI Automation**, and **Marketing Analytics**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@arbajayub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arbajayub" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arbaj-khan-52059a216/overlay/about-this-profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arbaj-khan-52059a216/overlay/about-this-profile/" height="30" width="40" /></a>
+---
+
+## 🚀 About Me
+
+- 💼 Performance Marketing Executive at **Mosaic Wellness**
+- 📈 Driving growth through **Amazon Ads** and marketplace strategy
+- 🤖 Exploring AI, LLMs, and workflow automation
+- 🐍 Building with Python, SQL, and APIs
+- 🏃 Training for **HYROX** while balancing work and continuous learning
+
+---
+
+## 🎯 Current Focus
+
+- Building AI-powered marketing workflows
+- Amazon Ads optimization & automation
+- Python scripting for productivity
+- SQL for marketing analytics
+- Learning Generative AI & LLM applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Marketing
+<p>
+  <img src="https://img.shields.io/badge/Amazon%20Ads-FF9900?style=for-the-badge&logo=amazon&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Languages & Databases
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,mongodb,git,github,postman" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbajkhan777&show_icons=true&locale=en&layout=compact" alt="arbajkhan777" /></p>
+### Currently Learning
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-4B32C3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-222222?style=for-the-badge"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arbajkhan777&show_icons=true&locale=en" alt="arbajkhan777" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbajkhan777&" alt="arbajkhan777" /></p>
+## 📂 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📈 Amazon Ads Analytics | Campaign performance analysis & optimization |
+| 🤖 AI Automation | AI workflows and productivity tools |
+| 🐍 Python Projects | Automation and data processing |
+| 🗄 SQL Analytics | SQL-based business insights |
+| 📊 Data Analytics | Dashboards and analytical projects |
+
+> *(We'll replace these with repository links once we organize your pinned repositories.)*
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arbajkhan777&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Arbajkhan777&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arbajkhan777&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/arbaj-khan-52059a216/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:arbajkhan2117@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+> *"Building at the intersection of Performance Marketing, Data, and AI."*
